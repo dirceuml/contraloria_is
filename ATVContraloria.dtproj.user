@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DataTransformationsUserConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Configurations>
+    <Configuration>
+      <Name>Development</Name>
+      <Options>
+        <StartObjectID>XAnalisisContabilidad.dtsx</StartObjectID>
+        <UserIDs>
+          <ConfigurationSetting>
+            <Id>ATVPROD</Id>
+            <Name>ATVPROD</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAmq4S74W/70ailClYh/skogAAAAAQAAAAQQBUAFYAUABSAE8ARAAAAANmAACoAAAAEAAAAN/MWxnFZ4Ks6VVtDFWU2foAAAAABIAAAKAAAAAQAAAAnhygvypIeXk+HDooxrDwxBgAAADjJRaXJOSXa5dBwbbbd/UfIstkIqS8HvYUAAAA8ewlED3Qdo5cRhSEPYgzI+Icc1E=</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>Contraloria</Id>
+            <Name>Contraloria</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAmq4S74W/70ailClYh/skogAAAAAYAAAAQwBvAG4AdAByAGEAbABvAHIAaQBhAAAAA2YAAKgAAAAQAAAAwagVV3T6un6a4jyBWg2QGgAAAAAEgAAAoAAAABAAAAAMLWgsLbhphk6cA2/ev+dxIAAAAKFy/iuNIayrd0D7fc4c32WulCvtdIP17rIlMu7Qkev9FAAAAGXaQM0v4KewzGJzeywCbDS8WrVu</Value>
+          </ConfigurationSetting>
+        </UserIDs>
+        <UserPasswords>
+          <ConfigurationSetting>
+            <Id>ATVPROD</Id>
+            <Name>ATVPROD</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAmq4S74W/70ailClYh/skogAAAAAQAAAAQQBUAFYAUABSAE8ARAAAAANmAACoAAAAEAAAAFR1yh7DaeyBsICFbp4A9Z0AAAAABIAAAKAAAAAQAAAAitTJNZfv8qMr9bkUEmL+FxAAAACGGfEyQDpIs+M4erqSUx+yFAAAAHrRYUMQB7jhAB60/lW7EcOhlBl/</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>Contraloria</Id>
+            <Name>Contraloria</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAmq4S74W/70ailClYh/skogAAAAAYAAAAQwBvAG4AdAByAGEAbABvAHIAaQBhAAAAA2YAAKgAAAAQAAAAZza0IbZjSEDzAFSWcwoMIgAAAAAEgAAAoAAAABAAAABow2v1kDXmnKtzMy+vIMM3GAAAADrY0xPCAkuVl+j1spJFMKbKVUg4Kn8n9BQAAAAmtW039PZ1wWHZvCUbcx00W70fww==</Value>
+          </ConfigurationSetting>
+        </UserPasswords>
+        <OfflineMode>false</OfflineMode>
+        <ProgressReporting>true</ProgressReporting>
+      </Options>
+    </Configuration>
+  </Configurations>
+</DataTransformationsUserConfiguration>
